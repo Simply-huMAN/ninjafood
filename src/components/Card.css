@@ -1,0 +1,21 @@
+.card {
+  display: grid;
+  grid-template-rows: 200px auto;
+  width: 250px;
+  margin: 1rem auto;
+}
+.pic-div {
+  grid-template-columns: minmax(200px, 400px);
+  grid-column: 1/1;
+  grid-row: 1/2;
+}
+.content-div {
+  grid-column: 1/1;
+  grid-row: 2/3;
+}
+@media (max-width: 639px) {
+  .card {
+    width: 90%;
+    height: auto;
+  }
+}
