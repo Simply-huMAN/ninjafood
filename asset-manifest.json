@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ninjafood/static/css/main.f50efad7.css",
+    "main.js": "/ninjafood/static/js/main.67b344e4.js",
+    "static/js/787.26061741.chunk.js": "/ninjafood/static/js/787.26061741.chunk.js",
+    "static/media/momos.jpg": "/ninjafood/static/media/momos.37502fe58c634ae2f4bd.jpg",
+    "static/media/biryani.webp": "/ninjafood/static/media/biryani.cc7f6d540bdf5f3f2263.webp",
+    "static/media/drinks.jpg": "/ninjafood/static/media/drinks.f1e102491f4bd6bfeeb0.jpg",
+    "static/media/butter-chicken.jpg": "/ninjafood/static/media/butter-chicken.150b2a94584f972fc798.jpg",
+    "static/media/snacks.jpeg": "/ninjafood/static/media/snacks.e5ec9a9c356316888ce0.jpeg",
+    "static/media/juices.jpg": "/ninjafood/static/media/juices.b3345ef22bf54fede012.jpg",
+    "static/media/chicken65.jpg": "/ninjafood/static/media/chicken65.97fb10bd352beb57e284.jpg",
+    "static/media/mandi.jpg": "/ninjafood/static/media/mandi.cd0c9c013e3c60f5609f.jpg",
+    "static/media/butter paneer.jpg": "/ninjafood/static/media/butter paneer.cee0a972d885e9c48077.jpg",
+    "static/media/fried rice.jpg": "/ninjafood/static/media/fried rice.19f8dc72d327a7da7ac9.jpg",
+    "static/media/burger.jpg": "/ninjafood/static/media/burger.1f215d34b0b559d8632f.jpg",
+    "index.html": "/ninjafood/index.html",
+    "main.f50efad7.css.map": "/ninjafood/static/css/main.f50efad7.css.map",
+    "main.67b344e4.js.map": "/ninjafood/static/js/main.67b344e4.js.map",
+    "787.26061741.chunk.js.map": "/ninjafood/static/js/787.26061741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50efad7.css",
+    "static/js/main.67b344e4.js"
+  ]
+}
